@@ -1,0 +1,25 @@
+# Build outputs
+Debug
+Release
+x64
+x86
+.obj
+.exe
+.pdb
+.ilk
+.log
+.tlog
+.idb
+
+# Visual Studio files
+.vs
+.user
+.suo
+.ncb
+.sdf
+.opensdf
+.VC.db
+.VC.opendb
+
+# Dependencies (if you prefer to not track them)
+# gamedependencies
